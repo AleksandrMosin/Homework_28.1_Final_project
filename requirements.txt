@@ -1,0 +1,5 @@
+pytest==7.3.0
+selenium==4.8.3
+allure_python_commons==2.13.1
+Faker==16.4.0
+selenium==4.8.3
